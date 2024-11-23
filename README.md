@@ -1,10 +1,12 @@
 # VLSM-SUBNETTING
 Creating Variable Length Subnetting Mask For a Real World Network Topology
-Objective
 
+
+Objective
 
 The Aim of this excercise is to learn how to carry out VLSM for a real world network topology
 Skills Learned
+
 
 [Bullet Points - Remove this afterwards]
 
