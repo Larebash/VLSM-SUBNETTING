@@ -11,10 +11,9 @@ Skills Learned.
 
 
     Advanced understanding of Subnetting concepts and practical application.
-    Proficiency in calculating .
-    Ability to generate and recognize attack signatures and patterns.
-    Enhanced knowledge of network protocols and security vulnerabilities.
-    Development of critical thinking and problem-solving skills in cybersecurity.
+    Proficiency in Segmenting and allocation of subnets .
+    Ability to use Network Topology assigned with an Ip address to understand how sub-network is configured in an organisation.
+    
 
 Tools Used
 
