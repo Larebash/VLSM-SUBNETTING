@@ -1,17 +1,17 @@
 # VLSM-SUBNETTING
-Creating Variable Length Subnetting Mask For a Real World Network Topology
+Creating Variable Length Subnetting Mask
 
 
 Objective
 
 The Aim of this excercise is to learn how to carry out VLSM for a real world network topology
-Skills Learned
 
 
-[Bullet Points - Remove this afterwards]
+Skills Learned.
 
-    Advanced understanding of SIEM concepts and practical application.
-    Proficiency in analyzing and interpreting network logs.
+
+    Advanced understanding of Subnetting concepts and practical application.
+    Proficiency in calculating .
     Ability to generate and recognize attack signatures and patterns.
     Enhanced knowledge of network protocols and security vulnerabilities.
     Development of critical thinking and problem-solving skills in cybersecurity.
